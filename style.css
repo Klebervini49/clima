@@ -68,8 +68,8 @@ h1 {
     flex: 1;
     text-align: center;
 }
-.info .descri{
-    max-height: 70px;
+.info .descri {
+    max-height: 90px;
     padding: 5px;
 }
 .info .vento {
